@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/atelier-console", "destination": "/" },
+    { "source": "/atelier-console/", "destination": "/" }
+  ]
+}
